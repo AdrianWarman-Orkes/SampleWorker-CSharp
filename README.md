@@ -70,6 +70,6 @@ To add more task workers:
 
 ## Useful Links
 
-Orkes Documentation: https://orkes.io/content/
-Conductor C# SDK: https://github.com/conductor-sdk/conductor-csharp
-Orkes Cloud Console: https://console.orkes.io
+- Orkes Documentation: https://orkes.io/content/
+- Conductor C# SDK: https://github.com/conductor-sdk/conductor-csharp
+- Orkes Cloud Console: https://console.orkes.io

@@ -6,7 +6,12 @@ A simple C# worker example for Orkes Conductor. It demonstrates how to connect t
 
 Before running this worker, you must:
 
-- Install the Conductor C# SDK (dotnet add package conductor-csharp)
+- Install the Conductor C# SDK
+
+Run:
+
+dotnet add package conductor-csharp
+
 - Have access to an Orkes Conductor instance (Orkes Cloud or self-hosted)
 - Create an Application inside Orkes Console
 - Generate an API Key and API Secret
